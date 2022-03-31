@@ -1,1 +1,2 @@
-# demos_ml_regression
+# Regression and Logistic regression
+Class demos
